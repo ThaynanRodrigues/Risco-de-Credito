@@ -6,7 +6,7 @@ Este projeto tem como objetivo analisar o comportamento de crédito de clientes 
 
 O resultado final é um dashboard interativo no Power BI que permite visualizar indicadores-chave e apoiar a tomada de decisão.
 
-🔗 [Acessar Dashboard no Power BI](https://app.powerbi.com/groups/me/reports/98f251a1-7e92-4cd0-b3e4-482c58a5cc59/cb0bff026137ce5c4933?experience=power-bi)
+🔗 [Acessar o Dashboard no Power BI](https://app.powerbi.com/groups/me/reports/98f251a1-7e92-4cd0-b3e4-482c58a5cc59/cb0bff026137ce5c4933?experience=power-bi)
 
 ---
 
